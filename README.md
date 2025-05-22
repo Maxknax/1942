@@ -1,1 +1,1 @@
-# 1942
+# 1942 Arcade Game made entirely with AI.
